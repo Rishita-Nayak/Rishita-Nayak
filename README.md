@@ -1,4 +1,21 @@
-### Hi there friends 👋
+## Hi there friends 👋
+This is **Rishita Nayak** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Rishita-Nayak/Rishita-Nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
