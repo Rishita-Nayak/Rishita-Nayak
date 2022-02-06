@@ -21,12 +21,13 @@
 
 
 ### 🤔 About
--  **Working :** Programming  :computer: 
--  **Learning :** Exploring different things :zap: | Open-Source :fire:	
--  **Hobbies :** Music :headphones:
--  **Ask me about :** I'm happy to help with anything I know :v:
--  **Pronouns :** She/Her :innocent:
-
+- 🔭 **Working :** Programming  :computer: 
+- 🌱 **Learning :** Exploring different things :zap: | Open-Source :fire:	
+- ✨ **Hobbies :** Music :headphones:
+- 💬 **Ask me about :** I'm happy to help with anything I know :v:
+- 📫 **How to reach me :** rsnayak35@gmail.com
+- 🙋🏻‍♀️**Pronouns :** She/Her :innocent:
+- ⚡**Fun fact :** Black is 🖤 but I still like Light mode ;)
 <img src="https://github-readme-stats.vercel.app/api?username=Rishita-Nayak&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 
