@@ -2,6 +2,7 @@
 <h1 align="Left"> This is Rishita Nayak  </h1>
 <h3 align="Left">  Tech Enthusiast | CSE Undergrad </h3> <br>
 
+<p align="left"> <a href="https://twitter.com/rishita_nayak35" target="blank"><img src="https://img.shields.io/twitter/follow/rishita_nayak35?logo=twitter&style=for-the-badge" alt="rishita_nayak35" /></a> </p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
