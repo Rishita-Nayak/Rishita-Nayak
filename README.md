@@ -3,9 +3,8 @@
 <h3 align="Left">  Tech Enthusiast | CSE Undergrad </h3> <br>
 
 <p align="left"> <a href="https://twitter.com/rishita_nayak35" target="blank"><img src="https://img.shields.io/twitter/follow/rishita_nayak35?logo=twitter&style=for-the-badge" alt="rishita_nayak35" /></a> </p>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishita-nayak" alt="rishita-nayak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
