@@ -1,6 +1,12 @@
+<!--
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="Left"> This is Rishita Nayak  </h1>
 <h3 align="Left">  Tech Enthusiast | CSE Undergrad </h3> <br>
+-->
+
+<h1 align="center">Hi 👋, I'm Rishita Nayak </h1>
+<h3 align="center">A passionate learner from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <a href="https://twitter.com/rishita_nayak35" target="blank"><img src="https://img.shields.io/twitter/follow/rishita_nayak35?logo=twitter&style=for-the-badge" alt="rishita_nayak35" /></a> </p>
 
