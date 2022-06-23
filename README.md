@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/86939391/175208585-566cf8b0-8cd9-43be-
 
 
 
-<h1 align="right">    Hi 👋, I'm Rishita Nayak                   <img src="https://user-images.githubusercontent.com/86939391/175268514-78bc1f70-0fdc-493d-bb17-7497e70fa63a.png" width="100px"> </h1> 
+<h1 align="right">    Hi 👋, I'm Rishita Nayak                   <img src="https://user-images.githubusercontent.com/86939391/175268514-78bc1f70-0fdc-493d-bb17-7497e70fa63a.png" width="50px"> </h1> 
 
 
 
