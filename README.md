@@ -19,9 +19,15 @@ https://user-images.githubusercontent.com/86939391/175208585-566cf8b0-8cd9-43be-
 
 
 
-<h1 align="center">Hi 👋, I'm Rishita Nayak </h1>
+<h1 align="center">Hi 👋, I'm Rishita Nayak <img src="https://user-images.githubusercontent.com/86939391/175268514-78bc1f70-0fdc-493d-bb17-7497e70fa63a.png" width="125px"> </h1> 
+
+
+
+
+
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
 
 
 <p align="left"> <a href="https://twitter.com/rishita_nayak35" target="blank"><img src="https://img.shields.io/twitter/follow/rishita_nayak35?logo=twitter&style=for-the-badge" alt="rishita_nayak35" /></a> </p>
