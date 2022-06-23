@@ -3,7 +3,17 @@
 <h1 align="Left"> This is Rishita Nayak  </h1>
 <h3 align="Left">  Tech Enthusiast | CSE Undergrad </h3> <br>
 -->
+<!--
 <br /> ![Blue Modern Corporate Computer and Technology Linkedin Banner](https://user-images.githubusercontent.com/86939391/175207631-2aa30db4-3584-4b15-b078-3237cde708a4.png)
+-->
+
+
+<br /> 
+
+https://user-images.githubusercontent.com/86939391/175208585-566cf8b0-8cd9-43be-ab69-d41b1c293d86.mp4
+
+
+
 
 <h1 align="center">Hi 👋, I'm Rishita Nayak </h1>
 <h3 align="center">A passionate learner from India</h3>
