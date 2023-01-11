@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/86939391/175208585-566cf8b0-8cd9-43be-
 </p>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rishita-Nayak&&theme=xcode)](https://github.com/Rishita-Nayak)
+[!Rishita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rishita-Nayak&&theme=xcode)](https://github.com/Rishita-Nayak)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishita-Nayak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rishita-Nayak" /></p>
